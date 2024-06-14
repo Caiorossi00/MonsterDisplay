@@ -1,4 +1,5 @@
-  <h1>Display de informações de um item</h1>
+ <h1>Display de informações de um item</h1>
+
   <p>Este projeto consiste no código de um design desenvolvido para apresentar informações acerca de um produto, o produto utilizado no exemplo foi o energético Monster.</p>
 
   <h2>Descrição</h2>
@@ -15,5 +16,4 @@
 
   <p><a href="https://caiorossi00.github.io/MonsterDisplay/">Acesse a página</a></p>
 
-    <img src="https://i.imgur.com/GMySoIU.png" alt="Visualização do Projeto" />
-
+  <img src="https://i.imgur.com/GMySoIU.png" alt="Visualização do Projeto" />
