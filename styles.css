@@ -2,7 +2,6 @@ body {
   background-color: #000000;
   color: #ffffff;
   font-family: "Bebas Neue", sans-serif;
-  font-weight: lighter;
   margin: 0;
   padding: 0;
 }
@@ -23,8 +22,9 @@ body {
   flex-direction: column;
   justify-content: center;
   gap: 1em;
-  margin-right: -1em;
-  margin-top: 5em;
+  margin-right: -1.4em;
+  margin-top: 2em;
+  font-size: 2em;
 }
 
 .container-left img {
@@ -32,26 +32,26 @@ body {
 }
 
 .container-left h2 {
-  font-size: 31px;
   position: relative;
   color: #ffffff;
   background: linear-gradient(120deg, #ffffff, #ffffff);
   -webkit-background-clip: text;
   background-clip: text;
   animation: shiny 2s infinite;
+  font-size: 2.2em;
 }
 
 .container-left h4 {
-  font-size: 1.5em;
   color: #00ff00;
 }
 
 .container-center img {
-  width: 15em;
+  width: 30em;
 }
 
 .container-right {
   display: flex;
+  font-size: 2em;
   flex-direction: column;
 }
 
