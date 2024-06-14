@@ -1,0 +1,85 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: lighter;
+  margin: 0;
+  padding: 0;
+}
+
+.button {
+  background-color: #00ff00;
+}
+
+.container-geral {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.container-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1em;
+  margin-right: -1em;
+  margin-top: 5em;
+}
+
+.container-left img {
+  width: 8em;
+}
+
+.container-left h2 {
+  font-size: 31px;
+  position: relative;
+  color: #ffffff;
+  background: linear-gradient(120deg, #ffffff, #ffffff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: shiny 2s infinite;
+}
+
+.container-left h4 {
+  font-size: 1.5em;
+  color: #00ff00;
+}
+
+.container-center img {
+  width: 15em;
+}
+
+.container-right {
+  display: flex;
+  flex-direction: column;
+}
+
+.info img {
+  width: 8em;
+  margin-left: -2em;
+  margin-top: 10px;
+}
+
+.info h1 {
+  color: #00ff00;
+}
+
+@keyframes shiny {
+  0% {
+    background-position: 200%;
+  }
+  100% {
+    background-position: -200%;
+  }
+}
+
+.container-left h2 {
+  background: linear-gradient(120deg, #ffffff 30%, #00ff00 50%, #ffffff 70%);
+  background-size: 200% auto;
+  color: #ffffff;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: shiny 3s linear infinite;
+}
