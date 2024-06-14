@@ -16,5 +16,5 @@
 
 
   <h2>Pré-visualização</h2>
-  <img src="https://i.imgur.com/GMySoIU.png" alt="Visualização do Projeto" /> <br></br>
+  <img src="https://i.imgur.com/GMySoIU.png" alt="Visualização do Projeto" />
   <p><a href="https://caiorossi00.github.io/MonsterDisplay/">Acesse a página</a></p>
