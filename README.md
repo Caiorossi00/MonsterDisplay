@@ -14,6 +14,7 @@
   <h2>Tempo Total de Atividade:</h2>
   <p>32 minutos</p>
 
-  <p><a href="https://caiorossi00.github.io/MonsterDisplay/">Acesse a página</a></p>
 
-  <img src="https://i.imgur.com/GMySoIU.png" alt="Visualização do Projeto" />
+  <h2>Pré-visualização</h2><br></br>
+  <img src="https://i.imgur.com/GMySoIU.png" alt="Visualização do Projeto" /> <br></br>
+  <p><a href="https://caiorossi00.github.io/MonsterDisplay/">Acesse a página</a></p>
