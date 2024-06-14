@@ -15,6 +15,6 @@
   <p>32 minutos</p>
 
 
-  <h2>Pré-visualização</h2><br></br>
+  <h2>Pré-visualização</h2>
   <img src="https://i.imgur.com/GMySoIU.png" alt="Visualização do Projeto" /> <br></br>
   <p><a href="https://caiorossi00.github.io/MonsterDisplay/">Acesse a página</a></p>
